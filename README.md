@@ -1,2 +1,3 @@
-# geradorSenhas
-Gerador de senhas
+# Gerador de senhas
+
+# Em construção :warning: 
